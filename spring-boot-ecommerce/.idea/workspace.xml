@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0adab85e-219a-4c6e-a1d0-5d05fc067194" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../ecommerceweb" beforeDir="false" afterPath="$PROJECT_DIR$/../ecommerceweb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
       <workItem from="1703841848492" duration="6426000" />
       <workItem from="1704353882765" duration="9705000" />
       <workItem from="1704532984038" duration="6411000" />
-      <workItem from="1704958362659" duration="1991000" />
+      <workItem from="1704958362659" duration="3934000" />
     </task>
     <servers />
   </component>
