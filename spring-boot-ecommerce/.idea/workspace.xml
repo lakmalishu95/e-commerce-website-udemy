@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0adab85e-219a-4c6e-a1d0-5d05fc067194" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../ecommerceweb" beforeDir="false" afterPath="$PROJECT_DIR$/../ecommerceweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductCategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductCategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,41 +32,40 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZWOcEwE2vlPgYvP7HRi2LabOOM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Udemy Cource e-commerce/spring-boot-ecommerce",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "59f9c2e7566ecb837290fe0e9a82c58d",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SpringBootEcommerceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Udemy Cource e-commerce/spring-boot-ecommerce&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;59f9c2e7566ecb837290fe0e9a82c58d&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.luv2code.ecommerce.config" />
@@ -76,7 +81,20 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SpringBootEcommerceApplication">
+    <configuration name="SpringBootEcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.ecommerce.SpringBootEcommerceApplication" />
+      <module name="spring-boot-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootEcommerceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="spring-boot-ecommerce" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.luv2code.ecommerce.SpringBootEcommerceApplication" />
@@ -84,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootEcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,6 +129,10 @@
       <workItem from="1704353882765" duration="9705000" />
       <workItem from="1704532984038" duration="6411000" />
       <workItem from="1704958362659" duration="3934000" />
+      <workItem from="1705043110508" duration="642000" />
+      <workItem from="1705148555495" duration="1227000" />
+      <workItem from="1705398615461" duration="794000" />
+      <workItem from="1706108172564" duration="161000" />
     </task>
     <servers />
   </component>
